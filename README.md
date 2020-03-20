@@ -1,2 +1,0 @@
-# moviePageReact
-Created with CodeSandbox
